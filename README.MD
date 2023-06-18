@@ -84,7 +84,7 @@ For more information, check the migration guide at https://a.co/7PzMCcy
 
 ```
 ***
-then, use following command instead just
+then, use following command instead ```node app.js```
 ***
 
     AWS_SDK_JS_SUPPRESS_MAINTENANCE_MODE_MESSAGE=1 node app.js 
