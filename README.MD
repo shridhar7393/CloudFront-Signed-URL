@@ -36,7 +36,7 @@ Project requires the following prestart tasks to be completed.
 ***
       openssl req -newkey rsa:2048 -nodes -keyout private_key.pem   //generates new private key 
 
-      openssl rsa -pubout -in private_key.pem -out public_key.pem   //generates new public key from above private key 
+      openssl rsa -pubout -in private_key.pem -out public_key.pem   //generates public key from above private key 
 
 ***
 
