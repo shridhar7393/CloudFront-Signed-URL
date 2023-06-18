@@ -99,8 +99,8 @@ then, use following command instead just
 5. Copy the Signed URL from log. Paste and hit the URL on browser.<br />
    &emsp;You can see the image loaded and displayed.<br />
 ***Wait for 5 minutes...***
-6. Now refresh the page.<br/ >
-&emsp;You will see the following message displayed on browser instead the actual picture.
+6. Now refresh the page.<br />
+&emsp;Instead of seeing the actual picture, you will see the following message displayed on the browser.
 ```html
 <Error>
   <Code>AccessDenied</Code>
